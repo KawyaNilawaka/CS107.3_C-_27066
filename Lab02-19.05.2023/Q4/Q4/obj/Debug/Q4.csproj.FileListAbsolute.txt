@@ -1,0 +1,8 @@
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\bin\Debug\Q4.exe.config
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\bin\Debug\Q4.exe
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\bin\Debug\Q4.pdb
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\obj\Debug\Q4.csproj.AssemblyReference.cache
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\obj\Debug\Q4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\obj\Debug\Q4.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\obj\Debug\Q4.exe
+C:\Users\Hp\Documents\Lab02-19.05.2023\Q4\Q4\obj\Debug\Q4.pdb
